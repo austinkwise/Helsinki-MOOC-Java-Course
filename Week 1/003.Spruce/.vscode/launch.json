@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Spruce",
+            "request": "launch",
+            "mainClass": "Spruce"
+        }
+    ]
+}
